@@ -2,4 +2,6 @@ Esta es una historia ficticia.
 
 Nuestro prota tiene 32 años y nacio en Costa Rica
 
+Esto fue agregado por Meli al clonar el proyecto
+
 Hoy profundizaremos de su historia.
