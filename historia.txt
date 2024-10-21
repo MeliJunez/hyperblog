@@ -2,6 +2,6 @@ Esta es una historia ficticia.
 
 Nuestro prota tiene 32 años y nacio en Costa Rica
 
-Esto fue agregado por Meli al clonar el proyecto
+Esto fue agregado por Meli al clonar el proyecto y esta feliz por aportar en proyecto open source.
 
 Hoy profundizaremos de su historia.
